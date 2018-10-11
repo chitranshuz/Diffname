@@ -1,0 +1,7 @@
+com\mindtree\repository\UserRepository.class
+com\mindtree\ServletInitializer.class
+com\mindtree\controller\UserController.class
+com\mindtree\service\Userservice.class
+com\mindtree\service\UserServiceImpl.class
+com\mindtree\Firstdevops2Application.class
+com\mindtree\entity\User.class
