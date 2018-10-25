@@ -20,8 +20,9 @@ public class UserController {
 	@Autowired
 	Userservice userservice ;
 	
+	//just changed public to private
 	@PostMapping(path= {"/create"})
-    public User create(@RequestBody User user){
+    private User create(@RequestBody User user){
         return userservice.create(user);
     }
 	

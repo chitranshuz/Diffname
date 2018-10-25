@@ -1,3 +1,10 @@
+//comment
+//comment
+//comment
+//comment
+//comment
+//comment
+
 package com.mindtree.entity;
 
 import javax.persistence.Column;
