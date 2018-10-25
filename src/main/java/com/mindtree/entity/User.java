@@ -1,9 +1,4 @@
-//comment
-//comment
-//comment
-//comment
-//comment
-//comment
+
 
 package com.mindtree.entity;
 
